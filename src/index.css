@@ -50,9 +50,9 @@ body {
 }
 
 button {
-  appearance: non;
-  border: non;
-  outline: non;
+  appearance: none;
+  border: none;
+  outline: none;
   color: #FFF;
   font-size:20px;
   padding: 16px;
