@@ -11,6 +11,7 @@
 
 ## Tecnologias
 
+- CSS
 - HTML
 - JavaScript
 - Git e Github
