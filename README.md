@@ -1,6 +1,6 @@
 # Calculadora
 
-![Captura de Ecrã (44)](https://github.com/vitorianfonseca/calculadora/assets/113269524/68f92bc3-273f-43cf-a50e-a5098b9c8d25)
+![Captura de Ecrã (45)](https://github.com/vitorianfonseca/calculadora/assets/113269524/db9c00fd-5368-4c84-bb7c-78d651e566d9)
 
 
 > Iniciante
